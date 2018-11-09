@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff000000</color>
+    <color name="colorPrimaryDark">#ff000000</color>
+    <color name="colorAccent">#ff000000</color>
+    <color name="buttontextColor">#ffffffff</color>
+    <color name="Snackbar">#ff0099cc</color>
+    <color name="slightly_green">#0d00fd</color>
+</resources>

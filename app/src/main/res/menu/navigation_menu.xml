@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/limit_register"
+        android:icon="@drawable/ic_cached_black_24dp"
+        android:title="Set/Reset Spending limiter"></item>
+    <item
+        android:icon="@drawable/ic_warning_black_24dp"
+        android:id="@+id/limit_reset_item"
+        android:title="Check spending limits"></item>
+    <item
+        android:icon="@drawable/ic_note_add_black_24dp"
+        android:id="@+id/spending_1_item"
+        android:title="Essentials spend details"></item>
+    <item
+        android:icon="@drawable/ic_note_add_black_24dp"
+        android:id="@+id/spending_2_item"
+        android:title="Travel spend details"></item>
+
+    <item
+        android:icon="@drawable/ic_note_add_black_24dp"
+        android:id="@+id/spending_3_item"
+        android:title="Entertainment spend details"></item>
+    <item
+        android:icon="@drawable/ic_note_add_black_24dp"
+        android:id="@+id/spending_4_item"
+        android:title="Miscellaneous spend details"></item>
+
+    <item
+        android:id="@+id/delete_process"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Delete spendings"
+        app:actionLayout="@layout/spinner_delete_layout">
+
+    </item>
+<item
+    android:id="@+id/edit_process"
+    android:icon="@android:drawable/ic_menu_edit"
+    android:title="Edit any spending"></item>
+</menu>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Upkeep</string>
+    <string name="login_buttton">Submit</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="titletext">Tap on the items listed below to proceed further.</string>
+    <string-array name="tablelist">
+        <item>Select any list here</item>
+
+        <item>Essentials</item>
+        <item>Travel</item>
+        <item>Entertainment</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="listnames">
+        <item>Select any list here</item>
+        <item>Essentials</item>
+        <item>Entertainment</item>
+        <item>Travel</item>
+        <item>Miscellaneous</item>
+    </string-array>
+<string name="desc_name">Add a Description here </string>
+    <string name="amt_value">Add an Amount here</string>
+    <string name="update_desc">Enter a new Description here</string>
+    <string name="amt_update">Enter new Amount here</string>
+</resources>
